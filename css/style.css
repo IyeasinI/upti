@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+main{background-image: url(../img/y.jpg);width: 100%; background-repeat: no-repeat;background-size: cover;}
+
+.common_wrap{margin:0 auto ; max-width: 1340px;padding: 0 20px;}
+.inner{float: left;width: 100%;}
+
+.upti_logo{width: 100px;}
+
+.upti_logo a{text-decoration: none;}
+
+
+.upti_logo a h4{font-size:40px; font-family: 'Courgette', cursive;color: rgb(236, 92, 20);}
+
+
+.hero_section{float: left;width: 100%;}
+
+
+.left{float:left;width: 100%;}
+
+.left h1{font-size:40px;}
+.left h3{font-size:20px;}
+
+
+.right img{width: 100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.right{float:right;width: 100%;}
+
+
+
+
+
+
+
+
+
+
+
